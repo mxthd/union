@@ -247,7 +247,7 @@ document.writeln("</div>");
 document.writeln("<div class=\"t6 div_nav\">");
 document.writeln("    <div class=\"t1_6\">");
 document.writeln("        <ul>");
-document.writeln("            <li name=\"\" onclick=\"window.location.href=\'http://u.10010.cn/0tylhMUT\'\"><img src=\"img/20161026175846.png\" onerror=\"javascript:this.src=\'https://img.client.10010.com/mobileService/view/client/wap/images/default_logo.png\';\" class=\"tu1\">");
+document.writeln("            <li name=\"\" onclick=\"window.location.href=\'https://u.10010.cn/uAALa\'\"><img src=\"img/20161026175846.png\" onerror=\"javascript:this.src=\'https://img.client.10010.com/mobileService/view/client/wap/images/default_logo.png\';\" class=\"tu1\">");
 document.writeln("                <p>天天秒杀</br>签到</p>");
 document.writeln("            </li>");
 document.writeln("            <li name=\"\" onclick=\"window.location.href=\'https://wx.hnliantong.com/h5/cl/index.html?source=1#/product/125\'\"><img src=\"img/20161026175846.png\" onerror=\"javascript:this.src=\'https://img.client.10010.com/mobileService/view/client/wap/images/default_logo.png\';\" class=\"tu1\">");
